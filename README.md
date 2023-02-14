@@ -1,2 +1,2 @@
 # Reusable Pagination Component
-##Created with React and Tailwind
+Created with React and Tailwind
